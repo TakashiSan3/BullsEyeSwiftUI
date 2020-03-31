@@ -2,9 +2,7 @@
 //  SceneDelegate.swift
 //  BullsEye
 //
-//  Created by 藤田 貴史 on 2020/02/12.
-//  Copyright © 2020 TakashiSan. All rights reserved.
-//
+
 
 import UIKit
 import SwiftUI
